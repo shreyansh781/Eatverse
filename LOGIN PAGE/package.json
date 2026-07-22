@@ -1,8 +1,0 @@
-{
-  "name": "shukla-and-sons-food",
-  "version": "1.0.0",
-  "description": "Frontend and Backend for Shukla & Son's Food",
-  "scripts": {
-    "start": "npx concurrently \"npx live-server\" \"node backend/server.js\""
-  }
-}
